@@ -1,2 +1,2 @@
 # HealthCareWeb
-DTL Project
+Internship Project
